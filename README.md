@@ -519,6 +519,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## S
 
 - [Saahil D](https://saahild.com)
+- [Sunil Maurya](https://sunilmaurya.vercel.app)
 - [Sachin Srinivasan](https://s8sachin.github.io)
 - [Safoor Safdar](https://safoorsafdar.com)
 - [Sagar Giri](https://girisagar46.github.io)
